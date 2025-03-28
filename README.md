@@ -1,3 +1,13 @@
-# career-guidance-voice-and-chatbot
-chatbot which not only provides replies assist you with your career but also gives a voice over of the written answer that will help the blind people
-chatbot that is accessed by blind people
+# Accessible Career Chatbot
+
+An intelligent and inclusive chatbot designed to provide career guidance while ensuring accessibility for visually impaired users. This chatbot not only delivers thoughtful and personalized responses but also offers real-time voice-over support, making information accessible to everyone.
+
+### Key Features
+
+- **Career Assistance**: Receive tailored career advice, resources, and guidance.
+- **Voice-Over Support**: Each response is converted to speech, ensuring accessibility for blind and visually impaired users.
+- **User-Friendly Interface**: Designed for seamless navigation, compatible with screen readers and assistive technologies.
+
+Empowering everyone to explore career opportunities—because knowledge should be accessible to all.
+
+
