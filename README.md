@@ -10,4 +10,6 @@ An intelligent and inclusive chatbot designed to provide career guidance while e
 
 Empowering everyone to explore career opportunities—because knowledge should be accessible to all.
 
+Demo video link: https://drive.google.com/file/d/1SoSCyXcmQ2tP392LktQoRF2JkNHN83Is/view?usp=sharing
+
 
