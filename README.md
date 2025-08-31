@@ -12,4 +12,5 @@ Empowering everyone to explore career opportunities—because knowledge should b
 
 Demo video link: https://drive.google.com/file/d/1SoSCyXcmQ2tP392LktQoRF2JkNHN83Is/view?usp=sharing
 
-
+### Update
+app.py is the new updated version where TTS and STT are integrated enhanced for visually impaired people
